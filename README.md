@@ -14,9 +14,3 @@ This repository contains practical implementations of classic synchronization pr
 * **Language**: Python 3.x
 * **Library**: `threading` (Standard Library)
 
-## 🚀 How to Run
-
-Simply clone the repository and run each script individually:
-
-```bash
-git clone [[([https://github.com/YOUR-USERNAME/OS-Multithreading-Workshop.git](https://github.com/MannyChalak/OS-Multithreading-Workshop.git))]](https://github.com/MannyChalak/OS-Multithreading-Workshop.git)
