@@ -11,6 +11,6 @@ This repository contains practical implementations of classic synchronization pr
 
 ## 🛠 Technology Stack
 
-* **Language**: Python 3.x
-* **Library**: `threading` (Standard Library)
+* **Language**: C++
+* **Library**: `iostream`, `thread`, `mutex`, `vector`, `chrono`, `random`, `condition_variable`, `queue`
 
